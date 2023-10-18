@@ -47,7 +47,7 @@ def main_apv():
     os.system('xdg-open https://www.Facebook.com/MrRajveer-xd')
     try:
     	#qureshi ke jaga apna mame lagau
-        key1=open('/data/data/com.termux/files/usr/bin/.Rajveer-cov', 'r').read()
+        key1=open('/data/data/com.termux/files/usr/bin/.Rajv33r009-cov', 'r').read()
     except IOError:
         os.system("clear")
         print(logo)
@@ -62,7 +62,7 @@ def main_apv():
         print ("          YOUR KEY : "+ak+myid)
         print ("[*]--------------------------------------------------------------")
         #qureshi ke jaga apna name or kch ni cherna
-        kok=open('/data/data/com.termux/files/usr/bin/.rajveer-cov', 'w')
+        kok=open('/data/data/com.termux/files/usr/bin/.Rajv33r009-cov', 'w')
         kok.close()
         print ("")
         print ("")
